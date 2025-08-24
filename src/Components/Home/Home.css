@@ -1,0 +1,21 @@
+.go-up {
+    position: relative;
+    z-index: 33;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(226, 117, 182);
+    color: #fff;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    transition: all 0.5s;
+}
+.go-up:hover{
+    background-color: rgb(230, 88, 173);
+}
+.fa-file {
+    margin-right: 6px;
+}
